@@ -42,6 +42,3 @@ Contributions to this project are welcome! If you have suggestions or additional
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
