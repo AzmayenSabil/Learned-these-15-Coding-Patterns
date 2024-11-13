@@ -36,13 +36,13 @@ Given a sequence of integers a0, a1, ..., aN−1, you will be given Q queries of
 For each query, compute S(L, R) = aL + aL+1 + ... + aR−1.
 ---
 1D Prefix Sums - Warm-up:
-- https://leetcode.com/problems/running-sum-of-1d-array/
-- https://leetcode.com/problems/find-the-highest-altitude/
-- https://leetcode.com/problems/find-the-middle-index-in-array/
-- https://codeforces.com/contest/327/problem/A
+- https://leetcode.com/problems/running-sum-of-1d-array/  -done
+- https://leetcode.com/problems/find-the-highest-altitude/ -done
+- https://leetcode.com/problems/find-the-middle-index-in-array/  -done
+- https://codeforces.com/contest/327/problem/A  -done
 
 Practice Questions:
-- https://leetcode.com/problems/range-sum-query-immutable/
+- https://leetcode.com/problems/range-sum-query-immutable/ -done
 - https://leetcode.com/problems/number-of-ways-to-split-array/
 - https://leetcode.com/problems/corporate-flight-bookings/
 - https://leetcode.com/problems/product-of-array-except-self/
@@ -59,7 +59,7 @@ Prefix Sum + Hashmap Practice:
 - https://cses.fi/problemset/task/1660/
 - https://cses.fi/problemset/task/1661/
 - https://codeforces.com/contest/1398/problem/C
-- https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+- https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/  -done
 
 
 2D Prefix Sums - Warm-up:
